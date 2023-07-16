@@ -1,36 +1,59 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
-    <title>Our Universe</title>
+    <title>Space Museum</title>
 </head>
 <body>
     <header>
-        <a href="index.html">
-            <h2 id="logo">Our Universe</h2>
-        </a>
-        <nav>
-            <ul id="menu">
-                <li>
-                    <a href="signup.html">Sign Up</a>
-                </li>
-                <li>
-                    <a href="solarsystem.html">Solar System</a>
-                </li>
-                <li>
-                    <a class="active" href="index.html">Home</a>
-                </li>
-            </ul>
-        </nav>
+        <a href="index.html"></a>
     </header>
+    <div class="navbar">
+        <a href="index.html" class="active">Home</a>
+        <a href="#">Plan Your Visit</a>
+        <a href="#">Exhibits</a>
+        <a href="#">Sign Up</a>
+    </div>
     <section>
-        <div class="video-container">
-            <video class="video" id="video" autoplay muted loop>
-                <source src="/assets/Universe.mp4" type="video/mp4">
-            </video>
+        <div class="slideshow-contatiner">
+            <div class="wrapper">
+                <img src="assets/Space Museum Building Banner.png">
+                <img src="assets/New Exhibit.png"> 
+                <img src="assets/Cafe Coming Soon.png"> 
+                <img src="assets/Space Room.png">
+            </div>
+
+            <a class="prev" onclick="plusSlides(-1)">&#10094</a>
+            <a class="next" onclick="plusSlides(1)">&#10095</a>
+
+        </div>
+
+        <br>
+       
+        <div style="text-align:center">
+            <span class="dot" onclick="currentSlide(1)"></span>
+            <span class="dot" onclick="currentSlide(2)"></span>
+            <span class="dot" onclick="currentSlide(3)"></span>
         </div>
     </section>
+    <footer>
+        <ul class="footer-nav">
+            <li>
+                <a href="index.html">Home</a>
+            </li>
+            <li>
+                <a href="#">Plan Your Visit</a>
+            </li>
+            <li>
+                <a href="#">Exhibits</a>
+            </li>
+            <li>
+                <a href="#">Sign Up</a>
+            </li>
+        </ul>
+        <p class="copyright">&copy; Copyright 2023 Sophie Deakin</p>
+    </footer>
 </body>
 </html>

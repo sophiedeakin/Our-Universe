@@ -4,68 +4,158 @@
     margin: 0;
     padding: 0;
     border: 0; 
+    box-sizing: border-box;
 }
 
 body {
     font-family: "Roboto", sans-serif;
     color: #fafafa;
-    background-color: #080808;
+    background-color: #000;
 }
 
-h2 {
-    font-family: "Roboto", sans-serif;
-    text-transform: uppercase;
-    letter-spacing: 4px;
-    color: #fafafa;
+header {
+    background-color: #000;
+    background-image: url(assets/Space\ Museum\ Logo\ crop\ 2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-y: 1px;
+    background-attachment: absolute;
+    height: 150px;    
 }
 
-#logo {
-    float: left;
-    font-size: 200%;
-    margin-left: 15px;
-    color: #fafafa;
-}
-
-#menu {
-    font-size: 110%;
-    list-style-type: none;
-    letter-spacing: 4px;
-}
-
-#logo, #menu {
-    line-break: 75px;
-}
-
-#menu li {
-    float: right;
-    margin-right: 30px;
-}
-
-#menu a {
-    text-decoration: none;
-    color: inherit;
-}
-
-#menu a:hover {
-    border-bottom: 1px solid #777777;
-}
-
-.active {
-    border-bottom: 1px solid #777777;
-}
-
-.video-container {
-    padding: 0;
-    margin-top: 0;
+.navbar {
     width: 100%;
-    position: auto;
-
+    background-color: #fafafa;
+    overflow: auto;
 }
 
-#video {
-    position: auto;
+.navbar a {
+    float: left;
+    padding: 13px;
+    color: #000;
+    text-decoration: none;
+    font-size: 17px;
+    width: 22%;
+    text-align: center;
+    letter-spacing: 1px;
+}   
+
+.navbar a:hover {
+    background-color: rgba(0, 0, 225, 0.8);
+}
+
+.navbar a.active {
+    background-color: rgba(0, 0, 225, 0.8);
+}
+
+@media screen and (max-width: 500px) {
+    .navbar a {
+        float: none;
+        display: block;
+        width: auto;
+    }
+}
+
+.slideshow-container {
     max-width: 100%;
-    max-height: 100%;
-    display: inline-block;
+    position: relative;
+    margin: auto;
 }
 
+.wrapper {
+    width: 100%;
+    display: flex;
+    animation: slide 16s infinite;
+}
+
+img {
+    width: 100%;
+}
+
+.prev, .next {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    margin-top: 50px;
+    padding: 16px;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+}
+
+.next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+}
+
+.prev:hover, .next:hover {
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.dot {
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+}
+
+@keyframes slide {
+    0%{
+        transform: translateX(0);
+    }
+    25%{
+        transform: translateX(0);
+    }
+    30%{
+        transform: translateX(-100%);
+    }
+    50%{
+        transform: translateX(-100%);
+    }
+    55%{
+        transform: translateX(-200%);
+    }
+    75%{
+        transform: translateX(-200%);
+    }
+    80%{
+        transform: translateX(-300%);
+    }
+    100%{
+        transform: translateX(-300%);
+    }
+}
+
+.copyright {
+    text-align: center;
+    margin-top: 50px;
+}
+
+footer {
+    height: 150px;
+}
+
+.footer-nav {
+    text-align: center;
+    margin-top: 20px;
+    
+}
+
+.footer-nav li {
+    display: inline;
+    margin: 10px;
+}
+
+.footer-nav a {
+    text-decoration: none;
+    color: #fafafa;
+    letter-spacing: 1px;
+}
