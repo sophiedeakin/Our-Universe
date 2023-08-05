@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="stylesheet" href="style.css">
     <title>Space Museum</title>
 </head>
@@ -17,25 +17,51 @@
         <a href="#">Sign Up</a>
     </div>
     <section>
-        <div class="slideshow-contatiner">
-            <div class="wrapper">
-                <img src="assets/Space Museum Building Banner.png">
-                <img src="assets/New Exhibit.png"> 
-                <img src="assets/Cafe Coming Soon.png"> 
-                <img src="assets/Space Room.png">
-            </div>
-
-            <a class="prev" onclick="plusSlides(-1)">&#10094</a>
-            <a class="next" onclick="plusSlides(1)">&#10095</a>
-
+        <div id="slider">
+            <figure>
+                <img src="assets/Space Museum Building Banner.png" alt="Space Museum building with logo">
+                <img src="assets/New Exhibit.png" alt="New exhibit opened up in the Space Museum">
+                <img src="assets/Cafe Coming Soon.png" alt="Cafe coming soon in the Space Museum">
+                <img src="assets/Space Room.png" alt="Picture of the moon from the Space Room exhibit in the Space Museum">
+            </figure>
         </div>
-
-        <br>
-       
-        <div style="text-align:center">
-            <span class="dot" onclick="currentSlide(1)"></span>
-            <span class="dot" onclick="currentSlide(2)"></span>
-            <span class="dot" onclick="currentSlide(3)"></span>
+    </section>
+    <section class="rocket-image-with-content">
+        <div class="container">
+            <div class="row rocket-image-with-content__row">
+                <div class="col-6 col-md-6 rocket-image-with-content__col">
+                    <h2 class="rocket-image-with-content__title">Explore outer space and artefacts</h2>
+                    <div class="rocket-image-with-content__content">
+                        <p>Whether it's raining or sunny. The Space Museum is the perfect family days out. We are open daily from 10.00am and entry is free.</p>
+                        <p>Visit the Space Museum today and explore thrilling exhibits and learn all about space, rocket, and more. 
+                         End your day at the Space Museum by visiting the gift shop, we offer various merchandise from replica rocket models, clothing, accessories, and more. 
+                         We can't wait to welcome you.</p>
+                    </div>
+                </div>
+                <div class="col-6 col-md-6 rocket-image-with-content__col">
+                    <div class="rocket-image-with-content__image">
+                        <img src="assets/rocket 2.jpg" alt="Apollo 12 rocket inside Space Museum"> 
+                    </div> 
+                </div>
+            </div>
+        </div>
+    </section>
+    <section>
+        <div class="event-container">
+            <div class="event-title">
+                <h2>Upcoming Event</h2>
+            </div>
+            <div class="event-image">
+                <img src="assets/Event.jpg" alt="Table with arts and crafts">
+            </div>
+            <div class="event-information">
+                <h3>Arts & Crafts</h3>
+                <p>Let you kids imagination run will wild. Design their own rocket and watch it blast off.</p>
+                <p><strong>Time:</strong> 12.00pm - 14.00pm (Session 1) 15.00pm - 17.00pm (Session 2)</p>
+                <p><strong>Date: </strong>16th August 2023</p>
+                <p><strong>Location:</strong> Activites Room - located near the reception</p>
+                <p><small>*Limited spaces available. Please book in advance.</small></p>
+            </div>
         </div>
     </section>
     <footer>
