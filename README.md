@@ -26,7 +26,7 @@ The business goals of the website are:
 1. Persuade visitors to visit the Space Museum by sharing relevant information about the museum which doesn't contain big words or jargon that will confuse the visitors.
 2. Expand educational programming by allowing schools to book a visit where children or young people can learn something new, take part in activities and explore the musuem.
 3. Secure funding from sales of tickets and potential partnerships with other companies.
-4. Create a database of customers to send newsletters to, this will expand the name of the musuem because customers/visitors will share their visit to friends & family as well as social media.
+4. Create a database of customers to send newsletters to, this will expand the name of the musuem because customers/visitors will share their visit to friends & family as well as social media. When the website is shared with others this will increase the foot traffic to the website and increase sales of tickets.
 
 ## User Goals
 
@@ -53,4 +53,10 @@ The Space Museum's target audience are:
 What will the users be looking for:
 - Information is clear, consise and relevant to what the museum is displaying.
 - Images of some of the artifacts or exhibits that the museum has.
-- Easy booking system and receive email confirmations
+- Easy booking system and receive email confirmations.
+- The ability to sign up to a newsletter to receive updates.
+- Gain information on upcoming events, opening times and opening days.
+
+The website will be designed to offer visitors what they are looking for as well as an easy navigation bar which allows visitors to move around the webstie comfortably. My main focus when creating the website was to make sure the information I input in to the website is understandable, relevant and consise to the visitors so it doesn't overwhelm them, this could result in visitors leaving the website quickly.
+
+Additionally, when designing the website I wanted to make sure I reach the target audience by building the website to be responsive and accessbile to various devices users may use, this includes, computers (PC), laptops, tablets and mobile phones.
