@@ -67,4 +67,4 @@ To accomplish the business goals and user goals the features that will be includ
 
 - Museum logo and navigation bar at the top of each page, this will allow visitors to remember the logo and allow the visitors to naviagte easily to each page.
 - A slider that provides visitors with information.
- - The first slide has the museum logo and an image of the musuem in the background. 
+#^ - The first slide has the museum logo and an image of the musuem in the background. 
