@@ -38,3 +38,19 @@ The user goals of the website are:
 
 ---
 # UX
+
+##Strategy
+
+When thinking of the strategy of the website I considered what is the target audience and what features/technologies the users would want for the website.
+ 
+The Space Museum's target audience are:
+- Children
+- Families
+- Schools
+- Young Adult
+- Those who have a passion for space
+
+What will the users be looking for:
+- Information is clear, consise and relevant to what the museum is displaying.
+- Images of some of the artifacts or exhibits that the museum has.
+- Easy booking system and receive email confirmations
