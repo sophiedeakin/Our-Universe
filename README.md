@@ -47,7 +47,7 @@ The Space Museum's target audience are:
 - Children
 - Families
 - Schools
-- Young Adult
+- Young Adults
 - Those who have a passion for space
 
 What will the users be looking for:
