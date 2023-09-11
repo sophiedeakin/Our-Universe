@@ -8,5 +8,5 @@
 
 ## Introduction
 
-The Space Museum website was created to show my passion for space and for others that do to. I love anything to do with space from astronomy, watching live rocket launches on YouTube, and more. This website is designed for educational purposes only.
+The Space Museum website was created to show my passion for space and for others that do to. I love anything to do with space from astronomy, watching live rocket launches on YouTube, and more. The main goal of this project was to design and build a website that showcases my understanding of the modules and coding languages I have learned so far, the website is mainly built using HTML and CSS. This website is designed for educational purposes only.
 
