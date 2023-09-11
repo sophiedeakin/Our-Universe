@@ -39,7 +39,7 @@ The user goals of the website are:
 ---
 # UX
 
-##Strategy
+## Strategy
 
 When thinking of the strategy of the website I considered what is the target audience and what features/technologies the users would want for the website.
  
