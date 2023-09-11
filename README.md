@@ -67,4 +67,22 @@ To accomplish the business goals and user goals the features that will be includ
 
 - Museum logo and navigation bar at the top of each page, this will allow visitors to remember the logo and allow the visitors to naviagte easily to each page.
 - A slider that provides visitors with information.
-    * The first slide has the museum logo and an image of the musuem in the background. 
+    * The first slide has the museum logo and an image of the musuem in the background.
+    * The second slide provides information to visitors about the new exhbit that has opened up.
+   * The third slide shows a sneak peak of a new cafe opening soon in the museum.
+   * The fourth slide shows a picture of one of the displays in the VR Space Room Exhibit.
+
+- On the home page there is some information about what the museum offers with an image of an artifact the museum has on display.
+- Newsletter sign up form
+
+For the next release of the website I am planning to :
+
+- Add an interactive map and directions to the museum by providing information for various transports like car, bus and train.
+- Create social media accounts on different sites and add them to the website - in the footer and sign up page.
+- Design and build another page for frequently asked questions, payment method types, and cancellations and refunds.
+- Design and build a shop page where visitors can browse and purchase merchandise and gift cards.
+
+## Structure 
+
+The website is split into four different pages, I chose to structure the website this way because the website will have a lot of information. I felt it would look cluttered and took in considerations on how the target audience would feel when visiting the website for the first time, the visitors would feel overwhelmed by all the inforamtion and leave the website.
+Additonally, I chose to order navigation bar as 'Home > Plan Your Visit > Exhibits > Sign Up because I felt like visitors are able to understand the information on each page. The Exhibits page contains break lines in between each exhibit, I added this detail because I felt the page needed something to break up each description so it didn't look too cluttered and confusing, I also changed the colour of the line breaks to # (add in hex code of colour). 
