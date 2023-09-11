@@ -6,7 +6,7 @@
 
 ---
 
-##Introduction
+## Introduction
 
 The Space Museum website was created to show my passion for space and for others that do to. I love anything to do with space from astronomy, watching live rocket launches on YouTube, and more. This website is designed for educational purposes only.
 
