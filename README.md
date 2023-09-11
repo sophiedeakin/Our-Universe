@@ -6,7 +6,7 @@
 
 ---
 
-## Introduction
+# Introduction
 
 The Space Museum website was created to show my passion for space and for others that do to. I love anything to do with space from astronomy, watching live rocket launches on YouTube, and more. The main goal of this project was to design and build a website that showcases my understanding of the modules and coding languages I have learned so far, the website is mainly built using HTML and CSS. This website is designed for educational purposes only.
 
@@ -16,7 +16,7 @@ The website it made up of 4 sections:
 3. Exhibits
 4. Sign Up - This will allow visitors to sign  up to newsletters to receive the latest news, offeres, and more.
 
-### Target Audience
+## Target Audience
 
 The website was built to target young children, families or individuals who love space, want to experience something new, and learn new things.
 
@@ -35,3 +35,6 @@ The user goals of the website are:
 2. As a first-time visitor, I want to know what exhibits are available at the musueum and know the meseum is willing to expand and add more exhibits.
 3. As a first-time visitor, I want to know about events or activites that are available or coming soon that is open for families or other visitors.
 4. As a first-time visitor, I want to be able to sign up to receive newsletters and special offers.
+
+---
+# UX
