@@ -66,5 +66,5 @@ Additionally, when designing the website I wanted to make sure I reach the targe
 To accomplish the business goals and user goals the features that will be included in this release are:
 
 - Museum logo and navigation bar at the top of each page, this will allow visitors to remember the logo and allow the visitors to naviagte easily to each page.
-- A slider that provides visitors with information.
-* -The first slide has the museum logo and an image of the musuem in the background. 
+Markup : - A slider that provides visitors with information.
+            -The first slide has the museum logo and an image of the musuem in the background. 
