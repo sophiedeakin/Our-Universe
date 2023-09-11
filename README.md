@@ -60,3 +60,11 @@ What will the users be looking for:
 The website will be designed to offer visitors what they are looking for as well as an easy navigation bar which allows visitors to move around the webstie comfortably. My main focus when creating the website was to make sure the information I input in to the website is understandable, relevant and consise to the visitors so it doesn't overwhelm them, this could result in visitors leaving the website quickly.
 
 Additionally, when designing the website I wanted to make sure I reach the target audience by building the website to be responsive and accessbile to various devices users may use, this includes, computers (PC), laptops, tablets and mobile phones.
+
+## Scope 
+
+To accomplish the business goals and user goals the features that will be included in this release are:
+
+- Museum logo and navigation bar at the top of each page, this will allow visitors to remember the logo and allow the visitors to naviagte easily to each page.
+- A slider that provides visitors with information.
+ - The first slide has the museum logo and an image of the musuem in the background. 
