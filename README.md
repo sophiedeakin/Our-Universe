@@ -115,3 +115,5 @@ The first change I made whilst building the website was the Space Museum logo. M
 Additionally, the next change I made was the layout on the 'Plan Your Visit' page for the Calendar and Opening Times, my original idea was to have them next each other when users are viewing it their mobile device but as I was building that section I felt like they were too close together and I changed it to where they are vertically align instead of horizontally. 
 
 The Final change I made was to the 'Keep In Touch' page, in my original plan and ideas for sign up to the newsletters I wanted the header to just say 'Sign up to newsletters'. While I was building that section I felt the heading was too short and boring, I decided to change the main heading to 'Find Out First' and added some extra detail under the header which tells the visitors to 'Sign up now to receive newsletters with all the latest updates, special offers, competitions, event details, and more'. by doing this it gives the users an idea of what may be included in the newsletters and what to look out for.  
+
+##Surface
