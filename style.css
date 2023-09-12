@@ -929,14 +929,25 @@ img {
 
 .keepintouch-container {
     margin: auto;
-    width: 50%;
+    width: 40%;
     background-color: rgba(0, 0, 0, 0.5);
+}
+
+@media (min-width: 768px) {
+    .keepintouch-container {
+        width: 100%;
+    }
 }
 
 @media (max-width: 768px) {
     .keepintouch-container {
-        margin: auto;
         width: 100%;
+    }
+}
+
+@media screen and (min-width: 768px) and (orientation: landscape) {
+    .keepintouch-container {
+        width: 90%;
     }
 }
 
@@ -952,8 +963,14 @@ input[type=text], [type=email] {
     box-sizing: border-box;
     border: solid 2px #027c9b;
 }
+@media (max-width: 769px) {
+    input[type=text], [type=email] {
+        width: 95%;
+        margin-left: 10px;
+    }
+}
 
-input[type=submit] {
+.signup {
     padding: 10px 30px;
     margin: 8px 35%;
     cursor: pointer;
@@ -962,6 +979,8 @@ input[type=submit] {
     color: #fff;
     text-transform: uppercase;
 }
+
+
 /*------------------ Footer */
 
 .copyright {
