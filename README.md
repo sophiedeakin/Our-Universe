@@ -88,7 +88,7 @@ The website is split into four different pages, I chose to structure the website
 
 Additonally, I chose to order navigation bar as 'Home > Plan Your Visit > Exhibits > Keep In Touch' because I felt like visitors are able to understand the information on each page. The Exhibits page contains break lines in between each exhibit, I added this detail because I felt the page needed something to break up each description so it didn't look too cluttered and confusing, I also changed the colour of the line breaks to #027c9b which matches the logo and other colours I have used. Finally, the newsletter sign up page has a simple design for visitors to easily sign up to the Space Museum's newsletters.
 
-## Scope
+## Skeleton
 
 ### Wireframes 
 
