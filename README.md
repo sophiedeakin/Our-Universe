@@ -86,4 +86,6 @@ For the next release of the website I am planning to :
 
 The website is split into four different pages, I chose to structure the website this way because the website will have a lot of information. I felt it would look cluttered and took in considerations on how the target audience would feel when visiting the website for the first time, the visitors would feel overwhelmed by all the inforamtion and leave the website.
 
-Additonally, I chose to order navigation bar as 'Home > Plan Your Visit > Exhibits > Sign Up' because I felt like visitors are able to understand the information on each page. The Exhibits page contains break lines in between each exhibit, I added this detail because I felt the page needed something to break up each description so it didn't look too cluttered and confusing, I also changed the colour of the line breaks to # (add in hex code of colour). 
+Additonally, I chose to order navigation bar as 'Home > Plan Your Visit > Exhibits > Sign Up' because I felt like visitors are able to understand the information on each page. The Exhibits page contains break lines in between each exhibit, I added this detail because I felt the page needed something to break up each description so it didn't look too cluttered and confusing, I also changed the colour of the line breaks to #027c9b which matches the logo and other colours I have used. Finally, the newsletter sign up page has a simple design for visitors to easily sign up to the Space Museum's newsletters.
+
+
