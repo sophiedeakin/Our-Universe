@@ -14,7 +14,7 @@ The website it made up of 4 sections:
 1. Home 
 2. Plan Your Visit
 3. Exhibits
-4. Sign Up - This will allow visitors to sign  up to newsletters to receive the latest news, offeres, and more.
+4. Keep In Touch - This will allow visitors to sign  up to newsletters to receive the latest news, offeres, and more.
 
 ## Target Audience
 
@@ -24,7 +24,7 @@ The website was built to target young children, families or individuals who love
 
 The business goals of the website are:
 1. Persuade visitors to visit the Space Museum by sharing relevant information about the museum which doesn't contain big words or jargon that will confuse the visitors.
-2. Expand educational programming by allowing schools to book a visit where children or young people can learn something new, take part in activities and explore the musuem.
+2. Expand educational programming by allowing schools to book a visit where children or young people can learn something new, take part in activities and explore the museum.
 3. Secure funding from sales of tickets and potential partnerships with other companies.
 4. Create a database of customers to send newsletters to, this will expand the name of the musuem because customers/visitors will share their visit to friends & family as well as social media. When the website is shared with others this will increase the foot traffic to the website and increase sales of tickets.
 
@@ -52,7 +52,7 @@ The Space Museum's target audience are:
 
 What will the users be looking for:
 - Information is clear, consise and relevant to what the museum is displaying.
-- Images of some of the artifacts or exhibits that the museum has.
+- Images of some of the artefacts or exhibits that the museum has.
 - Easy booking system and receive email confirmations.
 - The ability to sign up to a newsletter to receive updates.
 - Gain information on upcoming events, opening times and opening days.
@@ -86,7 +86,7 @@ For the next release of the website I am planning to :
 
 The website is split into four different pages, I chose to structure the website this way because the website will have a lot of information. I felt it would look cluttered and took in considerations on how the target audience would feel when visiting the website for the first time, the visitors would feel overwhelmed by all the inforamtion and leave the website.
 
-Additonally, I chose to order navigation bar as 'Home > Plan Your Visit > Exhibits > Sign Up' because I felt like visitors are able to understand the information on each page. The Exhibits page contains break lines in between each exhibit, I added this detail because I felt the page needed something to break up each description so it didn't look too cluttered and confusing, I also changed the colour of the line breaks to #027c9b which matches the logo and other colours I have used. Finally, the newsletter sign up page has a simple design for visitors to easily sign up to the Space Museum's newsletters.
+Additonally, I chose to order navigation bar as 'Home > Plan Your Visit > Exhibits > Keep In Touch' because I felt like visitors are able to understand the information on each page. The Exhibits page contains break lines in between each exhibit, I added this detail because I felt the page needed something to break up each description so it didn't look too cluttered and confusing, I also changed the colour of the line breaks to #027c9b which matches the logo and other colours I have used. Finally, the newsletter sign up page has a simple design for visitors to easily sign up to the Space Museum's newsletters.
 
 ## Scope
 
@@ -95,3 +95,15 @@ Additonally, I chose to order navigation bar as 'Home > Plan Your Visit > Exhibi
 #### Home 
 
 ![Home Page Wireframes](https://github.com/sophiedeakin/Space-Museum/blob/main/Wireframes/Home%20Wireframes.png)
+
+#### Plan Your Visit 
+
+![Plan Your Visit Wireframes](https://github.com/sophiedeakin/Space-Museum/blob/main/Wireframes/Plan%20Your%20Visit%20Wireframes.png)
+
+#### Exhibits 
+
+![Exhibits Wireframes](https://github.com/sophiedeakin/Space-Museum/blob/main/Wireframes/Exhibits%20Wireframes.png)
+
+#### Keep In Touch 
+
+![Keep In Touch](https://github.com/sophiedeakin/Space-Museum/blob/main/Wireframes/Keep%20In%20Touch%20Wireframes.png)
