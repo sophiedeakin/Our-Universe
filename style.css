@@ -905,7 +905,63 @@ img {
     margin-top: 20px;
 }
 
+/*------------------ Keep In Touch Page */
 
+.keepintouch-heading {
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.keepintouch-heading h2 {
+    color: #fff;
+    font-family: "Roboto", sans-serif;
+    font-size: 40px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.keepintouch-heading p {
+    color: #fff;
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+.keepintouch-container {
+    margin: auto;
+    width: 50%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+@media (max-width: 768px) {
+    .keepintouch-container {
+        margin: auto;
+        width: 100%;
+    }
+}
+
+.keepintouch-form {
+    display: table;
+    margin: auto;
+}
+
+input[type=text], [type=email] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px;
+    box-sizing: border-box;
+    border: solid 2px #027c9b;
+}
+
+input[type=submit] {
+    padding: 10px 30px;
+    margin: 8px 35%;
+    cursor: pointer;
+    background-color: #027c9b;
+    font-size: 15px;
+    color: #fff;
+    text-transform: uppercase;
+}
 /*------------------ Footer */
 
 .copyright {
