@@ -137,3 +137,29 @@ I have added an image below that shows what the colours look like and the Space 
 I wanted the website to look clean as much as possible and I decided to only use one font style through out the whole website, the font I chose was 'Roboto' from the Google Fonts website. I have added an image below to give you an idea of what the font looks like. 
 
 ![Roboto font used for the website](https://github.com/sophiedeakin/Space-Museum/blob/main/assets/Typography.png)
+
+---
+
+## Features 
+
+### *Navbar* 
+
+The navbar is responsive and is displayed at the top of every page under the Space Musuem logo. When on an active page the name of that page on the navbar will change the colour to a shade of blue (#027c9b), while the other pages on the navbar will have a off-white colour (#fafafa). When hovering over the navbar the pages backgroud coour will chages to the same shade of blue (#027c9b).
+
+### *Home*
+
+### *Plan Your Visit*
+
+### *Exhibits*
+
+### *Keep In Touch*
+
+## Features to implement in the future
+
+After gaining some knowledge and understanding of Javascript I want to implement in into the website by improving on the slider that is present on all the pages which provides visitors with images and latest news, I want to make the slider more interactive by adding arrows to either sides of the slider which allows visitors to click on to go through each slide.
+
+Addtionally, once learning and understanding Javascript I also want to upgrade the calendar which allows visitors to go through each month to see what days the museum is open and closed. I also want to change how visitors book their tickets, I have an idea to design and build it where the visitors can choose their tickets as normal, then choose and allocation time slot to arrive, and finally the date they wish to visit the museum.
+
+In addition to the change in the booking I also want to utilise Javascript by adding a popup feature that displays once the visitor click on the 'Book Now' button, the popup will allow the visitor to input their card details and email address to purchase the tickets and once submitted they will receive a confirmation email with their e-ticket attached.
+
+The final feature I would like to implement is designing a map of the musuem which allows visitors to see where each exhibit is located within the museum and add a link which allows visitors to download the map onto their devices. 
