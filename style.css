@@ -543,6 +543,7 @@ and (max-width: 767px), screen and (orientation: portrait) and (max-width: 767px
     }
 }
 
+
 @media screen and (max-width: 768px) and (orientation: landscape) {
     .opening-times {
         width: 60%;
@@ -999,6 +1000,15 @@ footer {
 .footer-nav {
     text-align: center;
     margin-top: 30px;
+    font-size: 14px;
+}
+
+@media (max-width: 375px) {
+    .footer-nav {
+        text-align: center;
+        margin-top: 30px;
+        font-size: 12px;
+    }
 }
 
 .footer-nav li {
