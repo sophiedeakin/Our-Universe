@@ -118,7 +118,7 @@ The Final change I made was to the 'Keep In Touch' page, in my original plan and
 
 ## Surface
 
-#### *Colour*
+#### *Colours*
 
 The colour palatte I have chosen for this website was based around the main logo of the website, the colours I chose were:
 
@@ -131,3 +131,9 @@ I have added an image below that shows what the colours look like and the Space 
 
 ![Colour palette of colours used for the webstie](https://github.com/sophiedeakin/Space-Museum/blob/main/assets/colour%20palette.png)
 ![Space Musuem Logo](https://github.com/sophiedeakin/Space-Museum/blob/main/assets/Space%20Museum%20Logo%20crop%202%20-%20Copy.png)
+
+#### *Typography* 
+
+I wanted the website to look clean as much as possible and I decided to only use one font style through out the whole website, the font I chose was 'Roboto' from the Google Fonts website. I have added an image below to give you an idea of what the font looks like. 
+
+![Roboto font used for the website](https://github.com/sophiedeakin/Space-Museum/blob/main/assets/Typography.png)
