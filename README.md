@@ -116,6 +116,15 @@ Additionally, the next change I made was the layout on the 'Plan Your Visit' pag
 
 The Final change I made was to the 'Keep In Touch' page, in my original plan and ideas for sign up to the newsletters I wanted the header to just say 'Sign up to newsletters'. While I was building that section I felt the heading was too short and boring, I decided to change the main heading to 'Find Out First' and added some extra detail under the header which tells the visitors to 'Sign up now to receive newsletters with all the latest updates, special offers, competitions, event details, and more'. by doing this it gives the users an idea of what may be included in the newsletters and what to look out for.  
 
-##Surface
+## Surface
 
 #### *Colour*
+
+The colour palatte I have chosen for this website was based around the main logo of the website, the colours I chose were:
+
+- #000000
+- #ffffff
+- #fafafa
+- #027c9b
+
+![Colour palette of colours used for the webstie](https://github.com/sophiedeakin/Space-Museum/blob/main/assets/colour%20palette.png)
