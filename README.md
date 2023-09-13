@@ -127,4 +127,7 @@ The colour palatte I have chosen for this website was based around the main logo
 - #fafafa
 - #027c9b
 
+I have added an image below that shows what the colours look like and the Space Museum logo which I based the colour palette from.
+
 ![Colour palette of colours used for the webstie](https://github.com/sophiedeakin/Space-Museum/blob/main/assets/colour%20palette.png)
+![Space Musuem Logo](https://github.com/sophiedeakin/Space-Museum/blob/main/assets/Space%20Museum%20Logo%20crop%202%20-%20Copy.png)
