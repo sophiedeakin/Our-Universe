@@ -32,7 +32,7 @@ The business goals of the website are:
 
 The user goals of the website are:
 1. As a first-time vistior, I want the website to have relevant information about the museum which is easy to understand.
-2. As a first-time visitor, I want to know what exhibits are available at the musueum and know the meseum is willing to expand and add more exhibits.
+2. As a first-time visitor, I want to know what exhibits are available at the museum and know the meseum is willing to expand and add more exhibits.
 3. As a first-time visitor, I want to know about events or activites that are available or coming soon that is open for families or other visitors.
 4. As a first-time visitor, I want to be able to sign up to receive newsletters and special offers.
 
