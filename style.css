@@ -69,6 +69,13 @@ header {
     overflow: hidden;
 }
 
+@media (min-width: 1200px) {
+    #slider {
+        width: 80%;
+        margin-left: 10%;
+    }
+}
+
 #slider figure {
     position: relative;
     width: 500%;
@@ -77,11 +84,17 @@ header {
     animation: 20s slider infinite;
 }
 
-#slider figure img {
+.figure-slider img {
     float: left;
     width: 20%;
 }
 
+@media (min-width: 1200px) {
+    .figure-slider img {
+        width: 20%;
+        height: auto;
+    }
+}
 @keyframes slider {
     0% {
         left: 0;
