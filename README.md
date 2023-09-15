@@ -2,7 +2,7 @@
 
 [View My Website Here](https://sophiedeakin.github.io/Space-Museum/)
 
-![image of Space Museum website on different types of screens](https://github.com/sophiedeakin/Space-Museum/blob/main/assets/spacemuseum-amiresponsive.png)
+![image of Space Museum website on different types of screens](https://github.com/sophiedeakin/Space-Museum/blob/main/assets/READ%20ME%20Assets/spacemuseum-amiresponsive.png)
 
 ---
 
@@ -129,14 +129,14 @@ The colour palatte I have chosen for this website was based around the main logo
 
 I have added an image below that shows what the colours look like and the Space Museum logo which I based the colour palette from.
 
-![Colour palette of colours used for the webstie](https://github.com/sophiedeakin/Space-Museum/blob/main/assets/colour%20palette.png)
+![Colour palette of colours used for the webstie](https://github.com/sophiedeakin/Space-Museum/blob/main/assets/READ%20ME%20Assets/colour%20palette.png)
 ![Space Musuem Logo](https://github.com/sophiedeakin/Space-Museum/blob/main/assets/spacemuseumlogo.png)
 
 #### *Typography* 
 
 I wanted the website to look clean as much as possible and I decided to only use one font style through out the whole website, the font I chose was 'Roboto' from the Google Fonts website. I have added an image below to give you an idea of what the font looks like. 
 
-![Roboto font used for the website](https://github.com/sophiedeakin/Space-Museum/blob/main/assets/Typography.png)
+![Roboto font used for the website](https://github.com/sophiedeakin/Space-Museum/blob/main/assets/READ%20ME%20Assets/Typography.png)
 
 ---
 
