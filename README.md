@@ -226,4 +226,6 @@ The final feature I would like to implement is designing a map of the musuem whi
 
 # Testing 
 
-## User Stories
+### User Stories
+
+1. **As a first-time vistior, I want the website to have relevant information about the museum which is easy to understand.**
