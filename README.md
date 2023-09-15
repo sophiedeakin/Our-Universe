@@ -233,3 +233,21 @@ The final feature I would like to implement is designing a map of the musuem whi
 When you enter the website and scroll down you are able to see information about the musuem. The information is split into two paragraphs, the first paragraph tells visitors the "Space Museum is the perfect family days out." and is "open daily from 10.00am.", and the second paragraph tells visitors why they should visit the Space Museum, "Visit the Space Museum today and explore thrilling exhibits and learn all about space, rockets, and more.".
 
 ![Information about the museum](https://github.com/sophiedeakin/Space-Museum/blob/main/assets/READ%20ME%20Assets/userstories1.png)
+
+2. **As a first-time visitor, I want to know what exhibits are available at the museum and know the meseum is willing to expand and add more exhibits.**
+
+When you enter the website at the top there is a navbar when you click on "Exhbit" it will take you to that page which has inforamtion about all the different types of exhbits the Space Museum has. The Exhibit page has an image of what's on display in each exhibit with information about each one, and an interesting fact.
+
+![Exhibits available in the museum](https://github.com/sophiedeakin/Space-Museum/blob/main/assets/READ%20ME%20Assets/userstories2.png)
+
+3. **As a first-time visitor, I want to know about events or activites that are available or coming soon that is open for families or other visitors.**
+
+When entering the website on an you scroll down on the "Home" page you will see a section about upcoming events and information about the event like date, time, and location. The event shown on the website is perfect for families because it's based around arts and crafts which allows families to use their imagination to create their own rocket.
+
+![Event coming soon](https://github.com/sophiedeakin/Space-Museum/blob/main/assets/READ%20ME%20Assets/userstories3.png)
+
+4. **As a first-time visitor, I want to be able to sign up to receive newsletters and special offers.**
+
+When entering the website, at the top of the page there is a navbar with a page called "Keep In Touch" once you click on the page you will be able see a sign up form which allows you to enter your name and email address to sign up to receive newsletters with all the latest news, special offers, and more. 
+
+![Sign up form](https://github.com/sophiedeakin/Space-Museum/blob/main/assets/READ%20ME%20Assets/userstories4.png)
