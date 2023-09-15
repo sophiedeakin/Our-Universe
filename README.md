@@ -32,7 +32,7 @@ The business goals of the website are:
 
 The user goals of the website are:
 1. As a first-time vistior, I want the website to have relevant information about the museum which is easy to understand.
-2. As a first-time visitor, I want to know what exhibits are available at the musueum and know the meseum is willing to expand and add more exhibits.
+2. As a first-time visitor, I want to know what exhibits are available at the museum and know the meseum is willing to expand and add more exhibits.
 3. As a first-time visitor, I want to know about events or activites that are available or coming soon that is open for families or other visitors.
 4. As a first-time visitor, I want to be able to sign up to receive newsletters and special offers.
 
@@ -130,7 +130,7 @@ The colour palatte I have chosen for this website was based around the main logo
 I have added an image below that shows what the colours look like and the Space Museum logo which I based the colour palette from.
 
 ![Colour palette of colours used for the webstie](https://github.com/sophiedeakin/Space-Museum/blob/main/assets/colour%20palette.png)
-![Space Musuem Logo](https://github.com/sophiedeakin/Space-Museum/blob/main/assets/Space%20Museum%20Logo%20crop%202%20-%20Copy.png)
+![Space Musuem Logo](https://github.com/sophiedeakin/Space-Museum/blob/main/assets/spacemuseumlogo.png)
 
 #### *Typography* 
 
@@ -142,17 +142,32 @@ I wanted the website to look clean as much as possible and I decided to only use
 
 ## Features 
 
+### *Space Museum Logo*
+
+The Space Musuem Logo is situated at the top of the website on every page, the logo was created using Canva. Using Canva's resources I was able to design the logo by picking three different images that I felt was relevant to my project idea and layered them on top of each other. Next I chose the font for the name of the project, I wanted the font to match the theme of the project which is space and the font I chose is 'Cosmic Octo'.
+
 ### *Navbar* 
 
 The navbar is responsive and is displayed at the top of every page under the Space Musuem logo. When on an active page the name of that page on the navbar will change the colour to a shade of blue (#027c9b), while the other pages on the navbar will have a off-white colour (#fafafa). When hovering over the navbar the pages backgroud coour will chages to the same shade of blue (#027c9b).
 
-### *Home*
+### *Slider*
 
-### *Plan Your Visit*
+The slider feature is displayed on all the pages in the website. I wanted the website to have something similar to a slideshow which will autmoatically transition to the slide and provide users with images and important informaiton like a new exhibit. I also used Canva to design the images and text for the slider, the images I used were from Pixabay and Pexels.
 
-### *Exhibits*
+The slider has four slides which includes:
 
-### *Keep In Touch*
+1. An images of the Space Museum building and the logo in the bottom left corner.
+2. An image of the new exhibit and text in the bottom left corner providing visotrs with information about the new exhibit that has just opened.
+3. An image of the cafe that is coming soon.
+4. An image of an exhibit display inside the Space Museum.
+
+### *Footer*
+
+The footer feature is display at the bottom of all the pages in the website. When buildign the footer I wanted it to look simple, the footer has a navbar at the top which allows visitors to navigate to each page, and I chose to have the background colour of the footer section to be transparant black.
+
+### *Background Image*
+
+When I first started working the project I went for a solid black background but I felt like it made the website look a bit plain, intead I decided to change the background to an image of space and is visible on all the pages. 
 
 ## Features to implement in the future
 
@@ -163,3 +178,52 @@ Addtionally, once learning and understanding Javascript I also want to upgrade t
 In addition to the change in the booking I also want to utilise Javascript by adding a popup feature that displays once the visitor click on the 'Book Now' button, the popup will allow the visitor to input their card details and email address to purchase the tickets and once submitted they will receive a confirmation email with their e-ticket attached.
 
 The final feature I would like to implement is designing a map of the musuem which allows visitors to see where each exhibit is located within the museum and add a link which allows visitors to download the map onto their devices. 
+
+---
+
+# Technologies Used 
+
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  * Used for the basic building block for hte project and to structure the content.
+
+- [CSS](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
+  * Used for atyling all the web content across the project.
+
+- [Google Fonts](https://fonts.google.com/)
+  * Used for obtaining the font used through the project, the font used was Roboto.
+
+- [Google Developer Tools](https://developer.chrome.com/docs/devtools/)
+  * Used for identifying any bugs and responsiveness.
+
+- [GitHub](https://github.com/)
+  * Used for storing code for the project after being pushed.
+
+- [Git](https://git-scm.com/)
+  * Used for version control by utilising the VS Code terminal to commit to Git and Push to GitHub.
+
+- [Visual Studio Code](https://code.visualstudio.com/)
+  * Free Open Source software used to code the project.
+
+- [Figma](https://www.figma.com/)
+  * Used for creating the wireframes for the project.
+
+- [Grammarly](https://www.grammarly.com/)
+  * Used for checking grammar and spelling miskates through out the project.
+
+- [Coloors](https://coolors.co/)
+  * Used for creating the colour palette for the project.
+
+- [Canva](https://www.canva.com/)
+  * Used for designing and editing the logo and images used in the slider for the project.
+
+- []()
+  * Used for compressing the images so they can load faster.
+
+- [AmIResponsive](https://ui.dev/amiresponsive)
+  * Used for generating a responsive image used in the README file.
+
+---
+
+# Testing 
+
+## User Stories
