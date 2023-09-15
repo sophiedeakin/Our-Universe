@@ -216,7 +216,7 @@ The final feature I would like to implement is designing a map of the musuem whi
 - [Canva](https://www.canva.com/)
   * Used for designing and editing the logo and images used in the slider for the project.
 
-- []()
+- [Convertio](https://convertio.co/)
   * Used for compressing the images so they can load faster.
 
 - [AmIResponsive](https://ui.dev/amiresponsive)
@@ -251,3 +251,34 @@ When entering the website on an you scroll down on the "Home" page you will see 
 When entering the website, at the top of the page there is a navbar with a page called "Keep In Touch" once you click on the page you will be able see a sign up form which allows you to enter your name and email address to sign up to receive newsletters with all the latest news, special offers, and more. 
 
 ![Sign up form](https://github.com/sophiedeakin/Space-Museum/blob/main/assets/READ%20ME%20Assets/userstories4.png)
+
+### Lighthouse 
+
+Lighthouse is a feature in Google Developer Tools which is used for improving the quality of web pages. It has audits for performane, accessibility, progressive web pages, SEO, and more. When first running Lighthouse I acheived a really low score for perfromance, reference image below:
+
+![Lighthouse First Analysis of website](https://onedrive.live.com/?cid=375A740EE4B8380B&id=375A740EE4B8380B%217371&parId=375A740EE4B8380B%213359&o=OneUp)
+
+When looking the at recommendations to improve the performance it recommeneded me to compress PNG and JPEG images to WebP to allow it load faster and less data consumption. The next improvement was Accessibility which is yellow, it recommended me to change the contrast of the "class="active"" in the navbar as it's dark and difficult for many users to read. After applying those recommendations I managed to improve my score, see image below:
+
+![Lighthouse positive results after changes](https://onedrive.live.com/?cid=375A740EE4B8380B&id=375A740EE4B8380B%217543&parId=375A740EE4B8380B%213359&o=OneUp)
+
+From the image above I managed to improve the performance and accessibilty. The improvements I made to increase performance were compressing PNG and JPEG images to WebP which allows the image to load faster, the next improvement was decreasing the width of the slider and event image to allow the website to load faster. Finally, I improved the accessibility by changing the contrast of the active page in the navbar to make it easier to read.
+
+### Google Developer Tools 
+
+When testing my website I constantly used Google Developer Tools which allowed me to idenetify any bugs and test the responsiveness when viewing the website on different devices. 
+
+![Google Developer Tools](https://onedrive.live.com/?cid=375A740EE4B8380B&id=375A740EE4B8380B%217545&parId=375A740EE4B8380B%213359&o=OneUp)
+
+I wanted to used different types of devices when testing the responsiveness from Android, iOS, tablets and desktop. The devcies I used were:
+- Samsung Galaxy A51/71
+- iPhone XR
+- Surface Duo
+- Surface Pro 7
+- iPhone 6/7/8
+- iPhone 6/7/8 Plus
+- iPad
+- iPad Pro
+- Nest Hub
+- Samsung Galaxy S20 Ultra
+- Desktop
