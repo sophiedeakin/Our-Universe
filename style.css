@@ -76,6 +76,13 @@ header {
     }
 }
 
+@media (max-width: 992px){
+    #slider {
+        width: 90%;
+        margin-left: 5%;
+    }
+}
+
 #slider figure {
     position: relative;
     width: 500%;
@@ -302,6 +309,13 @@ p {
     max-width: 100%;
     object-fit: cover;
     width: 100%;
+}
+
+@media (max-width: 992px) {
+    .rocket-image-with-content__image img {
+        width: 80%;
+        margin-left: 10%;
+    }
 }
 
 img {
