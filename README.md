@@ -2,7 +2,7 @@
 
 [View My Website Here](https://sophiedeakin.github.io/Space-Museum/)
 
-![image of Space Museum website on different types of screens](https://onedrive.live.com/?cid=375A740EE4B8380B&id=375A740EE4B8380B%217547&parId=375A740EE4B8380B%213359&o=OneUp)
+![image of Space Museum website on different types of devices](https://onedrive.live.com/?cid=375A740EE4B8380B&id=375A740EE4B8380B%217547&parId=375A740EE4B8380B%213359&o=OneUp)
 
 ---
 
