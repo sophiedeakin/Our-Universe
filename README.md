@@ -130,7 +130,7 @@ The colour palatte I have chosen for this website was based around the main logo
 I have added an image below that shows what the colours look like and the Space Museum logo which I based the colour palette from.
 
 ![Colour palette of colours used for the webstie](https://github.com/sophiedeakin/Space-Museum/blob/main/assets/colour%20palette.png)
-![Space Musuem Logo](https://github.com/sophiedeakin/Space-Museum/blob/main/assets/Space%20Museum%20Logo%20crop%202%20-%20Copy.png)
+![Space Musuem Logo](https://github.com/sophiedeakin/Space-Museum/blob/main/assets/spacemuseumlogo.png)
 
 #### *Typography* 
 
@@ -189,28 +189,28 @@ The final feature I would like to implement is designing a map of the musuem whi
 - [CSS](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
   * Used for atyling all the web content across the project.
 
--[Google Fonts](https://fonts.google.com/)
+- [Google Fonts](https://fonts.google.com/)
   * Used for obtaining the font used through the project, the font used was Roboto.
 
--[Google Developer Tools](https://developer.chrome.com/docs/devtools/)
+- [Google Developer Tools](https://developer.chrome.com/docs/devtools/)
   * Used for identifying any bugs and responsiveness.
 
--[GitHub](https://github.com/)
+- [GitHub](https://github.com/)
   * Used for storing code for the project after being pushed.
 
--[Git](https://git-scm.com/)
+- [Git](https://git-scm.com/)
   * Used for version control by utilising the VS Code terminal to commit to Git and Push to GitHub.
 
--[Visual Studio Code](https://code.visualstudio.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)
   * Free Open Source software used to code the project.
 
--[Figma](https://www.figma.com/)
+- [Figma](https://www.figma.com/)
   * Used for creating the wireframes for the project.
 
--[Grammarly](https://www.grammarly.com/)
+- [Grammarly](https://www.grammarly.com/)
   * Used for checking grammar and spelling miskates through out the project.
 
--[Coloors](https://coolors.co/)
+- [Coloors](https://coolors.co/)
   * Used for creating the colour palette for the project.
 
 - [Canva](https://www.canva.com/)
