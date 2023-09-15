@@ -303,7 +303,7 @@ After going through all the html files I realised where the error was coming fro
 
 The final bug I have found whilst testing the website is on the Plan Your Visit page, I noticed on the booking form the values start at "1" instead "0" for the quantity of tikcets, this will make it confusing to visitors when booking their tickets.
 
-![Booking form error](https://github.com/sophiedeakin/Space-Museum/blob/main/assets/READ%20ME%20Assets/bookingfromerrorfixed.png)
+![Booking form error](https://github.com/sophiedeakin/Space-Museum/blob/main/assets/READ%20ME%20Assets/bookingfromerror.png)
 
 I went back into my code and fixed the error by adding another option tag with the value for all ticket types, this will eliminate the confusion when visitors are booking their tickets. The image below shows the "0" value has been added. 
 
