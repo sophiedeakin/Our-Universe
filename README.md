@@ -2,7 +2,7 @@
 
 [View My Website Here](https://sophiedeakin.github.io/Space-Museum/)
 
-![image of Space Museum website on different types of screens](https://github.com/sophiedeakin/Space-Museum/blob/main/assets/READ%20ME%20Assets/spacemuseum-amiresponsive.png)
+![image of Space Museum website on different types of devices](https://onedrive.live.com/?cid=375A740EE4B8380B&id=375A740EE4B8380B%217547&parId=375A740EE4B8380B%213359&o=OneUp)
 
 ---
 
@@ -282,3 +282,21 @@ I wanted to used different types of devices when testing the responsiveness from
 - Nest Hub
 - Samsung Galaxy S20 Ultra
 - Desktop
+
+### Known bugs and fixes
+
+While testing the webiste I wanted to make sure any clickable features are working and open in a new page. The first bug I found was when clicking on the "Book Now" button it comes up with an error, see image below of error.
+
+1[405 Not Allowed Error](https://onedrive.live.com/?cid=375A740EE4B8380B&id=375A740EE4B8380B%217549&parId=375A740EE4B8380B%213359&o=OneUp)
+
+While using Google Developer Tools I found the bug was I didn't specify the correct way to send the form-data, my original code was "method="POST" this was causing the 405 error when clicking on "Book Now" button. To fix the error I changed POST to GET and now the page opens correctly. See image below the fixed issue and correct page.
+
+![Error fixed and book now page is displayed](https://onedrive.live.com/?cid=375A740EE4B8380B&id=375A740EE4B8380B%217561&parId=375A740EE4B8380B%213359&o=OneUp)
+
+The next bug I found after fixing the "Book Now" button is when I was directed to the new page the navbar was displaying the wrong page and was causing an error. The navbar showed the "Sign Up" page instead of "Keep In Touch" and when clicking on that page it will display this error:
+
+![404 error](https://onedrive.live.com/?cid=375A740EE4B8380B&id=375A740EE4B8380B%217563&parId=375A740EE4B8380B%213359&o=OneUp)
+
+After going through all the html files I realised where the error was coming from. When I decided to change the name of the "signup.html" to "keepintouch.html" in the navbar I forgot to change it in the book now page. Once I made that change the error was fixed the navbar was displaying the correct page and I can navigate to it.
+
+![404 error fixed and navbar showing Keep In Touch](https://onedrive.live.com/?cid=375A740EE4B8380B&id=375A740EE4B8380B%217569&parId=375A740EE4B8380B%213359&o=OneUp)
