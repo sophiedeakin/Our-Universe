@@ -229,3 +229,7 @@ The final feature I would like to implement is designing a map of the musuem whi
 ### User Stories
 
 1. **As a first-time vistior, I want the website to have relevant information about the museum which is easy to understand.**
+
+When you enter the website and scroll down you are able to see information about the musuem. The information is split into two paragraphs, the first paragraph tells visitors the "Space Museum is the perfect family days out." and is "open daily from 10.00am.", and the second paragraph tells visitors why they should visit the Space Museum, "Visit the Space Museum today and explore thrilling exhibits and learn all about space, rockets, and more.".
+
+![Information about the museum](https://github.com/sophiedeakin/Space-Museum/blob/main/assets/READ%20ME%20Assets/userstories1.png)
