@@ -2,7 +2,7 @@
 
 [View My Website Here](https://sophiedeakin.github.io/Space-Museum/)
 
-![image of Space Museum website on different types of devices](https://onedrive.live.com/?cid=375A740EE4B8380B&id=375A740EE4B8380B%217547&parId=375A740EE4B8380B%213359&o=OneUp)
+![image of Space Museum website on different types of devices](https://github.com/sophiedeakin/Space-Museum/blob/main/assets/READ%20ME%20Assets/amiresponsive-spacemuseum.png)
 
 ---
 
@@ -256,11 +256,11 @@ When entering the website, at the top of the page there is a navbar with a page 
 
 Lighthouse is a feature in Google Developer Tools which is used for improving the quality of web pages. It has audits for performane, accessibility, progressive web pages, SEO, and more. When first running Lighthouse I acheived a really low score for perfromance, reference image below:
 
-![Lighthouse First Analysis of website](https://onedrive.live.com/?cid=375A740EE4B8380B&id=375A740EE4B8380B%217371&parId=375A740EE4B8380B%213359&o=OneUp)
+![Lighthouse First Analysis of website](https://github.com/sophiedeakin/Space-Museum/blob/main/assets/READ%20ME%20Assets/Lighthouse1.png)
 
 When looking the at recommendations to improve the performance it recommeneded me to compress PNG and JPEG images to WebP to allow it load faster and less data consumption. The next improvement was Accessibility which is yellow, it recommended me to change the contrast of the "class="active"" in the navbar as it's dark and difficult for many users to read. After applying those recommendations I managed to improve my score, see image below:
 
-![Lighthouse positive results after changes](https://onedrive.live.com/?cid=375A740EE4B8380B&id=375A740EE4B8380B%217543&parId=375A740EE4B8380B%213359&o=OneUp)
+![Lighthouse positive results after changes](https://github.com/sophiedeakin/Space-Museum/blob/main/assets/READ%20ME%20Assets/Lighthouse2.png)
 
 From the image above I managed to improve the performance and accessibilty. The improvements I made to increase performance were compressing PNG and JPEG images to WebP which allows the image to load faster, the next improvement was decreasing the width of the slider and event image to allow the website to load faster. Finally, I improved the accessibility by changing the contrast of the active page in the navbar to make it easier to read.
 
@@ -268,7 +268,7 @@ From the image above I managed to improve the performance and accessibilty. The 
 
 When testing my website I constantly used Google Developer Tools which allowed me to idenetify any bugs and test the responsiveness when viewing the website on different devices. 
 
-![Google Developer Tools](https://onedrive.live.com/?cid=375A740EE4B8380B&id=375A740EE4B8380B%217545&parId=375A740EE4B8380B%213359&o=OneUp)
+![Google Developer Tools](https://github.com/sophiedeakin/Space-Museum/blob/main/assets/READ%20ME%20Assets/Devtools.png)
 
 I wanted to used different types of devices when testing the responsiveness from Android, iOS, tablets and desktop. The devcies I used were:
 - Samsung Galaxy A51/71
@@ -287,16 +287,16 @@ I wanted to used different types of devices when testing the responsiveness from
 
 While testing the webiste I wanted to make sure any clickable features are working and open in a new page. The first bug I found was when clicking on the "Book Now" button it comes up with an error, see image below of error.
 
-1[405 Not Allowed Error](https://onedrive.live.com/?cid=375A740EE4B8380B&id=375A740EE4B8380B%217549&parId=375A740EE4B8380B%213359&o=OneUp)
+![405 Not Allowed Error](https://github.com/sophiedeakin/Space-Museum/blob/main/assets/READ%20ME%20Assets/405error.png)
 
 While using Google Developer Tools I found the bug was I didn't specify the correct way to send the form-data, my original code was "method="POST" this was causing the 405 error when clicking on "Book Now" button. To fix the error I changed POST to GET and now the page opens correctly. See image below the fixed issue and correct page.
 
-![Error fixed and book now page is displayed](https://onedrive.live.com/?cid=375A740EE4B8380B&id=375A740EE4B8380B%217561&parId=375A740EE4B8380B%213359&o=OneUp)
+![Error fixed and book now page is displayed](https://github.com/sophiedeakin/Space-Museum/blob/main/assets/READ%20ME%20Assets/405errorfixed.png)
 
 The next bug I found after fixing the "Book Now" button is when I was directed to the new page the navbar was displaying the wrong page and was causing an error. The navbar showed the "Sign Up" page instead of "Keep In Touch" and when clicking on that page it will display this error:
 
-![404 error](https://onedrive.live.com/?cid=375A740EE4B8380B&id=375A740EE4B8380B%217563&parId=375A740EE4B8380B%213359&o=OneUp)
+![404 error](https://github.com/sophiedeakin/Space-Museum/blob/main/assets/READ%20ME%20Assets/404error.png)
 
 After going through all the html files I realised where the error was coming from. When I decided to change the name of the "signup.html" to "keepintouch.html" in the navbar I forgot to change it in the book now page. Once I made that change the error was fixed the navbar was displaying the correct page and I can navigate to it.
 
-![404 error fixed and navbar showing Keep In Touch](https://onedrive.live.com/?cid=375A740EE4B8380B&id=375A740EE4B8380B%217569&parId=375A740EE4B8380B%213359&o=OneUp)
+![404 error fixed and navbar showing Keep In Touch](https://github.com/sophiedeakin/Space-Museum/blob/main/assets/READ%20ME%20Assets/404errorfixed.png)
