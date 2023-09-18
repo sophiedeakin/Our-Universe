@@ -152,7 +152,7 @@ The navbar is responsive and is displayed at the top of every page under the Spa
 
 ### *Slider*
 
-The slider feature is displayed on all the pages in the website. I wanted the website to have something similar to a slideshow which will autmoatically transition to the slide and provide users with images and important informaiton like a new exhibit. I also used Canva to design the images and text for the slider, the images I used were from Pixabay and Pexels.
+The slider feature is displayed on all the pages in the website. I wanted the website to have something similar to a slideshow which will autmoatically transition to the slide and provide users with images and important informaiton like a new exhibit. I also used Canva to design the images and text for the slider, the images I used were from Pexels.
 
 The slider has four slides which includes:
 
@@ -167,7 +167,7 @@ The footer feature is display at the bottom of all the pages in the website. Whe
 
 ### *Background Image*
 
-When I first started working the project I went for a solid black background but I felt like it made the website look a bit plain, intead I decided to change the background to an image of space and is visible on all the pages. 
+When I first started working the project I went for a solid black background but I felt like it made the website look a bit plain, intead I decided to change the background to an image of space and is visible on all the pages. The background image is also from Pexels. 
 
 ## Features to implement in the future
 
@@ -215,6 +215,9 @@ The final feature I would like to implement is designing a map of the musuem whi
 
 - [Canva](https://www.canva.com/)
   * Used for designing and editing the logo and images used in the slider for the project.
+
+- [Pexels](https://www.pexels.com/)
+   * Used for selecting the images throughout the project.
 
 - [Convertio](https://convertio.co/)
   * Used for compressing the images so they can load faster.
@@ -310,3 +313,81 @@ I went back into my code and fixed the error by adding another option tag with t
 ![Booking for error fixed](https://github.com/sophiedeakin/Space-Museum/blob/main/assets/READ%20ME%20Assets/bookingfromerrorfixed.png)
 
 ---
+
+# Deployment 
+
+The Space Museum website was deployed using Gitpages and followd the steps below:
+
+**GitHub Pages Deployment**
+
+1. Log into your GitHub
+2. On the left hand side select the *Repository* you want to deploy.
+3. At the top of the page there is a menu, find and click on *Settings*.
+4. On the hand side there is a vertical menu, under the *Code and automation* section click on *Pages*.
+5. Under *Build and deployment* there is a sub-section called *Branch*, select *None* and change it to *Main*.
+6. The page will refresh and at the top of the page will be a message, "Your site is live at (Link to your GitHub page web address)"
+**It can take some time for the link to be active.**
+
+**Forking the GitHub Repository**
+
+Forking your GitHub Respository allows you to make a copy of your original respository and make any changes without it overwritting your original respository. 
+
+1. Select the Repository you want to fork.
+2. Under the menu and your account, click on the *Fork* button.
+3. Your repository is now forked and the copy is available to use.
+
+**Cloning GitHub Repository**
+
+1. Log into your GitHub and select the respository you want to clone.
+2. Above the list of your file click on *<> Code*.
+3. Copy the URL.
+4. In *VS Code* change the current directory to the location of where you want the cloned directory.
+5. In the terminal type in *"git clone"* and paste in the link from **Step 3**.
+6. Press *Enter* and a local clone has been created.
+
+---
+
+# Credits
+
+I have used various types of resources whilst designing and building this website. Any code that I have found and used from any sources have been commented within the HTML and CSS files. 
+
+**Guidance and Research**
+
+The websites/articles below have been used for guidance and research:
+
+- [Exhibits Fun Facts](https://www.natgeokids.com/uk/discover/science/space/ten-facts-about-space/)
+   * Used for providing fun facts about space for the Exhibits page.
+
+- [Media Queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
+
+- [Resizing Images]( https://ausi.github.io/respimagelint/)
+   * Used for scanning the website to see what images are too big and making the website load slowly.
+
+- [Responsive Grid-View](https://www.rafmuseum.org.uk/midlands/)
+   * Used for guidance on how to code Home page and Exhibits page.
+
+**Media**
+
+The following websites below where used for selecting and editing media for the website:
+
+- [Pexels](https://www.pexels.com/)
+   * Used for selecting the images throughout the project.
+
+- [Canva](https://canva.com/)
+   * Used for editing the images for the project.
+
+**Code**
+
+The resources below I used for code:
+
+- [Home Page Slider](https://www.youtube.com/watch?v=qDww4CbxtD4)
+
+- [Responsive Grid View]( https://www.w3schools.com/css/css_website_layout.asp)
+
+- [Sign Up Form](https://www.w3schools.com/css/css_form.asp)
+
+The following website were used for inspiration and none of the content was directly copied:
+
+- [RAF Museum](https://www.rafmuseum.org.uk/midlands/)
+
+- [National Space Center](https://www.spacecentre.co.uk/)
